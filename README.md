@@ -8,7 +8,6 @@ Status do Projeto: Em desenvolvimeno
 - [Instalação](#instalação)
 - [Configurações](#configurações)
 - [Execução](#execução)
-- [Arquitetura](#arquitetura)
 - [Autor](#autor)
 
 ## Tecnologias utilizadas
@@ -63,7 +62,7 @@ npx ts-node src/seeds/CourseSeeds.ts
 npx ts-node src/seeds/MyCourseSeeds.ts
 npx ts-node src/seeds/UserSeeds.ts
 
-Execução
+## Execução
 Ainda na pasta back, execute o seguinte comando para servir o aplicativo em um servidor customizado para posterior execução no front-end:
 
 bash
@@ -84,7 +83,7 @@ Agora para a Aplicação Web
 cd frontend-web
 npm start
 
-Autor
+## Autor
 Dev - Lucas Stefano
 
 # última atualização 02/02/2024
