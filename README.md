@@ -1,4 +1,4 @@
-# Classroom
+# ClassroomPSI
 Status do Projeto: Em desenvolvimeno
 
 ## Tabela de Conteúdo
@@ -75,11 +75,17 @@ bash
 Copy code
 cd ..
 
-cd frontend-web
+cd frontend-mobile
 
-expo start
+npm expo start
 Para parar a execução do aplicativo, basta executar o comando CTRL + C no terminal.
 
-Autor
+Agora para a Aplicação Web
+cd frontend-web
+npm start
 
+Autor
 Dev - Lucas Stefano
+
+# última atualização 02/02/2024
+Criado por Lucas Stefano em 02/02/2024
