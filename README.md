@@ -50,7 +50,7 @@ yarn add
 Após a instalação, algumas preparações anteriores devem ser realizadas na pasta back. A partir dos comandos abaixo, será feita a configuração da pasta back-end:
 
 bash
-Copy code
+
 cd ..
 
 cd backend
@@ -70,12 +70,12 @@ npx ts-node src/seeds/UserSeeds.ts
 Ainda na pasta back, execute o seguinte comando para servir o aplicativo em um servidor customizado para posterior execução no front-end:
 
 bash
-Copy code
+
 npx ts-node server.ts
 Com as configurações feitas, mude a seguir para a pasta front, para a execução do aplicativo utilizando o Expo utilizando os seguintes comandos:
 
 bash
-Copy code
+
 cd ..
 
 cd frontend-mobile
