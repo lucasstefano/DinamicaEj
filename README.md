@@ -35,7 +35,7 @@ cd backend
 npm install 
 
 
-Agora, a partir do passo anterior, execute os comandos abaixo para instalar as dependências da pasta de front-end do projeto denominada front.
+Agora, a partir do passo anterior, execute os comandos abaixo para instalar as dependências da pasta de front-end do projeto.
 
 bash
 cd ..
@@ -43,14 +43,17 @@ cd ..
 cd ClassroomPSI/frontend-mobile
 yarn add
 
-# Configurações
+cd ClassroomPSI/frontend-web
+yarn add
+
+## Configurações
 Após a instalação, algumas preparações anteriores devem ser realizadas na pasta back. A partir dos comandos abaixo, será feita a configuração da pasta back-end:
 
 bash
 Copy code
 cd ..
 
-cd back
+cd backend
 
 cp .env
 
@@ -85,7 +88,7 @@ cd frontend-web
 npm start
 
 ## Autor
-Dev - Lucas Stefano
+Dev - Lucas Stefano  
 
 # última atualização 02/02/2024
 Criado por Lucas Stefano em 02/02/2024
