@@ -24,7 +24,8 @@ Para que seja possível a execução dos arquivos deste repositório, o usuário
 
 ```bash
 git clone https://github.com/lucasstefano/ClassroomPSI.git
-Instalação
+
+## Instalação
 Para o correto funcionamento do aplicativo, terão que ser feitas as instalações das dependências, tanto da pasta back-end, quanto da pasta front-end. Para isso entre na pasta que foi clonada pelo comando e exclua a pasta .git:
 
 Abra o seu terminal e execute o comando para instalar as dependências da pasta de back-end do projeto denominada back.
@@ -42,7 +43,7 @@ cd ..
 cd ClassroomPSI/frontend-mobile
 yarn add
 
-Configurações
+# Configurações
 Após a instalação, algumas preparações anteriores devem ser realizadas na pasta back. A partir dos comandos abaixo, será feita a configuração da pasta back-end:
 
 bash
