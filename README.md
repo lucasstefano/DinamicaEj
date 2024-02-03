@@ -57,7 +57,6 @@ cd backend
 
 cp .env
 
-npm run keys
 
 npx prisma migrate dev --name init
 
