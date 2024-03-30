@@ -73,3 +73,40 @@ export const RetanguloVermelho = styled.div`
   cursor: pointer;
     
 `;
+
+export const ButtonAdd = styled.a`
+    align-items: center;
+    z-index: 1;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    left: 20px;
+    bottom: 10px;
+    position: fixed;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    width: 110px;
+    height: 40px;
+`
+export const ColumnTitle = styled.div`
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    margin: 10px 0px;
+    background-color: #f3f3f3;
+`
+
+export const ColumnStyle = styled.div`
+    padding: 10px 0px;
+    width: 400px;
+    height: 70vh;
+    border-radius: 20px;
+    background-color: #c2c2c2;
+`
+export const ColumnContainer = styled.div`
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+`

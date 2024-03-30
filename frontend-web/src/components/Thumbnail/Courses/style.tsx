@@ -6,11 +6,11 @@ export const ThumbnailContainer = styled.a`
     position: relative;
     display: flex;
     flex-direction: column;
-    min-width: 170px;
-    width: 17vw;
-    height: 211px;
-    background: ${global.colors.Green};
-    border-radius: 10px;
+    cursor: move;
+    width: 330px;
+    height: 180px;
+    background-color: #fafafa;
+    border-radius: 5px;
     text-decoration: none;
 `;
 
@@ -25,16 +25,31 @@ export const ImgContainer = styled.div`
     border-bottom-right-radius: 10px;
 `;
 
+export const StatusText= styled.a`
+    align-self: flex-start;
+    margin: 10px 13px 0px 13px;
+    font-family: ${global.fonts.dmsans};
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -2.03px;
+    color: ${global.colors.White};
+    background-color: #ff0000;
+    padding: 0px 10px;
+    border-radius: 16px;
+`;
+
 export const TitleText= styled.a`
     align-self: flex-start;
-    margin: 10px 13px 6px 13px;
+    margin: 0px 13px 6px 13px;
     font-family: ${global.fonts.dmsans};
     font-size: 29px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     letter-spacing: -2.03px;
-    color: ${global.colors.White};
+    color: ${global.colors.Black};
 `;
 
 export const SubTitleText= styled.a`
@@ -45,5 +60,15 @@ export const SubTitleText= styled.a`
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    color: ${global.colors.White};
+    color: ${global.colors.Black};
+`;
+export const DateText= styled.a`
+    justify-self: flex-end;
+    margin: 0px 13px 0px 13px;
+    font-family: ${global.fonts.dmsans};
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: ${global.colors.Black};
 `;
