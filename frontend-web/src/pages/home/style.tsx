@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 import { global } from '../../globalStyle';
 
-export const ScreenDiv = styled.div`
+export const ScreenDiv = styled.div`    
+    background-color: #01143F;
 `;
 
 export const RightScreen = styled.section`
