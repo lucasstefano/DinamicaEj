@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/DinamicaEj/static/css/main.857726be.css",
+    "main.js": "/DinamicaEj/static/js/main.1c799eb8.js",
+    "static/js/787.3826970e.chunk.js": "/DinamicaEj/static/js/787.3826970e.chunk.js",
+    "static/media/dm-sans-latin-wght-normal.woff2": "/DinamicaEj/static/media/dm-sans-latin-wght-normal.b679aedace42c91e65f9.woff2",
+    "static/media/roboto-condensed-latin-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-latin-400-normal.dc3ae5ab1518eb2bbce7.woff2",
+    "static/media/roboto-condensed-latin-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-latin-400-normal.0483af2c4163b10d94a8.woff",
+    "static/media/dm-sans-latin-ext-wght-normal.woff2": "/DinamicaEj/static/media/dm-sans-latin-ext-wght-normal.29e02dedfafd2d9c9b2c.woff2",
+    "static/media/roboto-condensed-cyrillic-ext-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-cyrillic-ext-400-normal.e05fcd15276c7bc34581.woff2",
+    "static/media/roboto-condensed-cyrillic-ext-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-cyrillic-ext-400-normal.fa2853761c045cf40636.woff",
+    "static/media/roboto-condensed-latin-ext-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-latin-ext-400-normal.d7ca50fb3bf95914c562.woff2",
+    "static/media/roboto-condensed-latin-ext-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-latin-ext-400-normal.ad279bafb9733ecd6243.woff",
+    "static/media/roboto-condensed-cyrillic-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-cyrillic-400-normal.13ca2f552621afc3c1d4.woff2",
+    "static/media/roboto-condensed-cyrillic-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-cyrillic-400-normal.f42233e76837f3806d13.woff",
+    "static/media/roboto-condensed-greek-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-greek-400-normal.3ea0bd88c904802128a1.woff2",
+    "static/media/roboto-condensed-vietnamese-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-vietnamese-400-normal.14f809ef27314a784aa2.woff2",
+    "static/media/roboto-condensed-greek-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-greek-400-normal.b0ce7e2b7e0c999119d0.woff",
+    "static/media/roboto-condensed-vietnamese-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-vietnamese-400-normal.0826bdc41952badedabe.woff",
+    "static/media/roboto-condensed-greek-ext-400-normal.woff2": "/DinamicaEj/static/media/roboto-condensed-greek-ext-400-normal.021bc50a98a083320950.woff2",
+    "static/media/roboto-condensed-greek-ext-400-normal.woff": "/DinamicaEj/static/media/roboto-condensed-greek-ext-400-normal.b6bfc59988197937768c.woff",
+    "index.html": "/DinamicaEj/index.html",
+    "main.857726be.css.map": "/DinamicaEj/static/css/main.857726be.css.map",
+    "main.1c799eb8.js.map": "/DinamicaEj/static/js/main.1c799eb8.js.map",
+    "787.3826970e.chunk.js.map": "/DinamicaEj/static/js/787.3826970e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857726be.css",
+    "static/js/main.1c799eb8.js"
+  ]
+}
